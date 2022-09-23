@@ -1,2 +1,2 @@
 # tuicast.github.io
-a website
+[Go back to Tuicast >](https://tuicast.github.io/tuicast/)
